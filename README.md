@@ -11,7 +11,7 @@ I am a machine learning and artificial intelligence enthusiast!
 * 🚀  I'm currently working on [Data Analysis and Visualization projects](http://public.tableau.com/app/profile/akshit.shetty3338/vizzes)
 * 🧠  I'm learning Deep Learning
 * 🤝  I'm open to collaborating on Data Analytics and Machine Learning Projects
-* ⚡  I'm a Demon Hunter, don't tell anyone...
+* ⚡  I'm hunt demons at night, don't tell anyone...
 
 ### Skills
 
