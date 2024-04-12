@@ -8,7 +8,7 @@ I am a machine learning and artificial intelligence enthusiast!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shettyakshit119@gmail.com](mailto:shettyakshit119@gmail.com)
-* 🚀  I'm currently working on [Data Analysis and Visualization projects](http://public.tableau.com/app/profile/akshit.shetty3338/vizzes)
+* 🚀  I'm currently working on an \[End to End] Machine Learning Project!
 * 🧠  I'm learning Deep Learning
 * 🤝  I'm open to collaborating on Data Analytics and Machine Learning Projects
 * ⚡  I'm hunt demons at night, don't tell anyone...
