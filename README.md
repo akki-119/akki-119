@@ -11,7 +11,6 @@ I am a machine learning and artificial intelligence enthusiast!
 * 🚀  I'm currently working on an \[End to End] Machine Learning Project!
 * 🧠  I'm learning Deep Learning
 * 🤝  I'm open to collaborating on Data Analytics and Machine Learning Projects
-* ⚡  I'm hunt demons at night, don't tell anyone...
 
 ### Skills
 
